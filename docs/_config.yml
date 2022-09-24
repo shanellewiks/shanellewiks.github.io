@@ -29,7 +29,7 @@ twitter_username: SAWikramanayake
 github_username:  Shanellewiks
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
