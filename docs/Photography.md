@@ -9,5 +9,6 @@ layout: Page
 I'm excited to share my experiences with others through my pictures.
 #Costa Rica 
 
-![*Corytophanes cristatus](https://github.com/shanellewiks/shanellewiks.github.io/blob/main/docs/CR_Pics/Cor1.jpg)
-![*Corytophanes cristatus](https://github.com/shanellewiks/shanellewiks.github.io/blob/main/docs/CR_Pics/Cor2.jpg)
+![Corytophanes cristatus](https://github.com/shanellewiks/shanellewiks.github.io/blob/main/docs/CR_Pics/Cor1.jpg)
+![Corytophanes cristatus](https://github.com/shanellewiks/shanellewiks.github.io/blob/main/docs/CR_Pics/Cor2.jpg)
+
