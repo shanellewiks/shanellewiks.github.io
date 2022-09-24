@@ -25,6 +25,7 @@ baseurl: /shanellewiks.github.io/ # the subpath of your site, e.g. /blog
 url: https://shanellewiks.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SAWikramanayake
 github_username:  Shanellewiks
+show_downloads: f
 
 description: >- # this means to ignore newlines until "baseurl:"
   "I am a graduate student interested in the evolutionary ecology of reptiles and amphibians in tropical rainforests. My undergradute research 
