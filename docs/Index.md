@@ -1,31 +1,10 @@
 ---
-
 layout: page
-title: "About"
-
+title: ""
 ---
 
-## Installation
+I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://childlanglab.com/). 
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I teach graduate seminars in [psycholinguistics](/ling607) and [neurolinguistics](/neurolinguistics) and an undergraduate course in [language and the brain](/ling104). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
 
-## Features
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-
-
-#### I am a graduate student interested in the evolutionary ecology of reptiles and amphibians in tropical rainforests. 
-#### My undergradute research was on the population structure and genetic diversity of the endemic and endangered Rough-nosed horned lizard of Sri Lanka [(*Ceratophora aspera*)](https://doi.org/10.1111/btp.12970). 
-#### My current M.S. thesis work explored the neurological basis of mate choice in the highly variable Red-eyed Treefrog of Costa Rica.
+This semester I'm teaching a new undergraduate course (with Colin Twomey): [Data Science for Studying Language and the Mind](/ling172).
