@@ -20,13 +20,16 @@
 
 title: Shanelle Wikramanayake
 email: shanelle.wikramanayake.101@my.csun.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a graduate student interested in the evolutionary ecology of reptiles and amphibians in tropical rainforests. 
 domain: shanellewiks.github.io
 baseurl: /shanellewiks.github.io/ # the subpath of your site, e.g. /blog
 url: https://shanellewiks.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SAWikramanayake
 github_username:  Shanellewiks
+
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a graduate student interested in the evolutionary ecology of reptiles and amphibians in tropical rainforests. My undergradute research 
+  was on the population structure and genetic diversity of the endemic and endangered Rough-nosed horned lizard of Sri Lanka. 
+  My current M.S. thesis work explored the neurological basis of mate choice in the highly variable Red-eyed Treefrog of Costa Rica.
 
 # Build settings
 theme: slate
