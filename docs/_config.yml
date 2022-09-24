@@ -15,15 +15,15 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-#  - {file: "index.md", title: "Home changes", icon: Home}
   - {file: "Photography.md", title: "Photography"}
   - {url: "/SWikramanayake_CV.pdf", title: CV}
+  - {url: "https://www.inaturalist.org/people/shanelle97", title: iNat}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake.101@my.csun.edu"}
-  - {title: Github, icon: github, url: "https://https://github.com/shanellewiks"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/SAWikramanayake"}
+  - {title: Mail, icon: envelope, url: mailto:shanelle.wikramanayake.101@my.csun.edu}
+  - {title: Github, icon: github, url: https://https://github.com/shanellewiks}
+  - {title: Twitter, icon: twitter, url: https://twitter.com/SAWikramanayake}
   
   
   
