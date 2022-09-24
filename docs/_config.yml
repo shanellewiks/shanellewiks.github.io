@@ -1,50 +1,35 @@
+title: "Shanelle Wikramanayake"
+author: "Shanelle Wikramanayake"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-title: Shanelle Wikramanayake
-author: Shanelle Wikramanayake
-email: shanelle.wikramanayake.101@my.csun.edu
-domain: shanellewiks.github.io
-baseurl: /shanellewiks.github.io/ # the subpath of your site, e.g. /blog
-url: https://shanellewiks.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SAWikramanayake
-github_username:  Shanellewiks
-show_downloads: f
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md"}
+  - {file: "Art.md"}
+  - {url: "/SWikramanayake_CV.pdf", title: CV}
 
 
-# Layout 
-
-
-description: >- # this means to ignore newlines until "baseurl:"
-  "I am a graduate student interested in the evolutionary ecology of reptiles and amphibians in tropical rainforests. My undergradute research 
-  was on the population structure and genetic diversity of the endemic and endangered Rough-nosed horned lizard of Sri Lanka. 
-  My current M.S. thesis work explored the neurological basis of mate choice in the highly variable Red-eyed Treefrog of Costa Rica."
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake.101@my.csun.edu"}
+  - {title: Github, icon: github, url: "https://github.com/shanellewiks.github.io"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/SAWikramanayake"}
   
   
-# Build settings
+  
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
   - jekyll-remote-theme
-
-
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-feed
