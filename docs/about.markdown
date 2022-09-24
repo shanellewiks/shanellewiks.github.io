@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
----
+title: "PAGE TITLE"
+permalink: /https://shanellewiks.github.io/about/
 
+---
