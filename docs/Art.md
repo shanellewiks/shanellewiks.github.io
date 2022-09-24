@@ -1,6 +1,6 @@
 ---
 layout: Page
-title: "About Me"
+title: "My Art"
 permalink: /https://shanellewiks.github.io/about/
 
 ---
