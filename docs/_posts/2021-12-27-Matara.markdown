@@ -34,7 +34,7 @@ Derbid Planthoppers
 
 Hybotid Dance Flies
 
-<img src="/assets/Matara/Hybotidae.jpg"  width="400" height="400">  <img src="/assets/Matara/Hybotidae1.jpg"  width="400" height="400">
+<img src="/assets/Matara/Hybotidae.jpg"  width="400" height="400">  <img src="/assets/Matara/Hybotidae1.jpg"  width="350" height="350">
 
 ## Spiders
 
@@ -42,13 +42,13 @@ _Rhene_
 
 ![Geometrid](/assets/Matara/Rhene1.jpg)
 
-<img src="/assets/Matara/Rhene2.jpg"  width="400" height="400">  <img src="/assets/Matara/Rhene3.jpg"  width="400" height="400">
+<img src="/assets/Matara/Rhene2.jpg"  width="350" height="350">  <img src="/assets/Matara/Rhene3.jpg"  width="350" height="350">
 
 Kidney Garden Spider (_Bijoaraneus mitificus_)
 
 ![Geometrid](/assets/Matara/Bijoaraneus_mitificus.jpg)
 
-Ant-mimic Spiders _Myrmarachne__
+Ant-mimic Spiders _Myrmarachne_
 
 ![Geometrid](/assets/Matara/Myrmarachne.jpg)
 
@@ -56,12 +56,12 @@ Long-jawed Orbweavers _Tetragnathidae_
 
 ![Geometrid](/assets/Matara/Tetragnathidae.jpg)
 
-_Chrysilla__
+_Chrysilla_
 
 ![Geometrid](/assets/Matara/Chrysilla.jpg)
 ![Geometrid](/assets/Matara/Chrysilla2.jpg)
 
-<img src="/assets/Matara/Chrysilla1.jpg"  width="400" height="400">  <img src="/assets/Matara/Chrysilla3.jpg"  width="400" height="400">
+<img src="/assets/Matara/Chrysilla1.jpg"  width="350" height="350">  <img src="/assets/Matara/Chrysilla3.jpg"  width="350" height="350">
 
 
 
