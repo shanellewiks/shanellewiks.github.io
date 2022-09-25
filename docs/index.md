@@ -3,7 +3,9 @@ layout: page
 title: ""
 ---
 
-![Holding horned lizard](/assets/Fieldpic.jpg)
+
+![Holding horned lizard](/assets/Field_pic.jpg)
+
 
 I am an M.S. student in the [Robertson lab](https://jrobertsonlab.wordpress.com/) at California State University, Northridge. 
 I am broadly interested in evolutionary ecology of reptiles and amphibians in tropical rainforests. 
@@ -11,4 +13,3 @@ My undergraduate research focused on the population genetics of the endangered a
 My M.S. thesis uses neurological techniques to understand how female mate-choice affects speciation in the highly variable Red-eyed treefrog (_Agalychnis callidryas_).
 
 
-![Corytophanes cristatus](/assets/Cor1.jpg)
