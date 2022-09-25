@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Salgala"
+date:   2022-01-08 16:56:50 -0600
+categories: jekyll update
+---
+
+Salgala is a small rainforest in the Southwestern rainforest of Sri Lanka.
