@@ -61,7 +61,7 @@ _Chrysilla_
 ![Geometrid](/assets/Matara/Chrysilla.jpg)
 ![Geometrid](/assets/Matara/Chrysilla2.jpg)
 
-<img src="/assets/Matara/Chrysilla1.jpg"  width="375" height="375">  <img src="/assets/Matara/Chrysilla3.jpg"  width="375" height="375">
+<img src="/assets/Matara/Chrysilla1.jpg"  width="400" height="400">  <img src="/assets/Matara/Chrysilla3.jpg"  width="400" height="400">
 
 
 
