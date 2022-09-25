@@ -30,7 +30,7 @@ Argiope
 
 _Brettus cingulatus_
 
-<img src="/assets/Bolgoda/Brettus1.jpg"  width="300" height="300">  <img src="/assets/Bolgoda/Brettus2.jpg"  width="300" height="300"> 
+<img src="/assets/Bolgoda/Brettus1.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus2.jpg"  width="375" height="375"> 
 ![Geometrid](/assets/Bolgoda/Brettus3.jpg)
 <img src="/assets/Bolgoda/Brettus4.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus5.jpg"  width="375" height="375"> 
 <img src="/assets/Bolgoda/Brettus6.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus7.jpg"  width="375" height="375"> 
@@ -40,6 +40,7 @@ Grass Lynx Spiders _Oxyopes_
 
 Longspinneret Spiders
 Family Hersiliidae
+
 ![Geometrid](/assets/Bolgoda/Hersiliidae.jpg)
 
 _Gasterocantha geminata_
@@ -56,4 +57,5 @@ Brown-headed Barbet (_Megalaima zeylanica_)
 ![Gasterocantha](/assets/Bolgoda/Barbet.jpg)
 
 Indian Paradise Flycatcher (_Terpsiphone paradisi_)
+
 ![Gasterocantha](/assets/Bolgoda/Paradise.jpg)
