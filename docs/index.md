@@ -1,5 +1,5 @@
-![Red-eyed treefrog](/assets/Art/RETF.jpg)
 
+<img src="/assets/Art/RETF.jpg"  width="50" height="50">
 ---
 layout: page
 title: ""
