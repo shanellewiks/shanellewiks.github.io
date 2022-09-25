@@ -22,7 +22,7 @@ Sri Lanka Kangaroo Lizard(_Otocryptis wiegmanni_)
 
 _Harmatelia_
 
-<img src="/assets/Matara/Harmatelia_discalis.jpg"  width="350" height="350">  <img src="/assets/Matara/Harmatelia_discalis1.jpg"  width="350" height="350">
+<img src="/assets/Kanneliya22/Harmatelia_discalis.jpg"  width="350" height="350">  <img src="/assets/Kanneliya22/Harmatelia_discalis1.jpg"  width="350" height="350">
 
 Wood Cockroaches
 
@@ -30,7 +30,7 @@ Wood Cockroaches
 
 Spineplate Millipedes
 
-<img src="/assets/Matara/Harpagophoridae1.jpg"  width="350" height="350">  <img src="/assets/Matara/Harpagophoridae.jpg"  width="350" height="350"> 
+<img src="/assets/Kanneliya22/Harpagophoridae1.jpg"  width="350" height="350">  <img src="/assets/Kanneliya22/Harpagophoridae.jpg"  width="350" height="350"> 
 
 _Clinteria chloronota_
 
