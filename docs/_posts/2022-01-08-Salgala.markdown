@@ -2,59 +2,58 @@
 layout: post
 title:  "Salgala"
 date:   2022-01-08 16:56:50 -0600
-categories: jekyll update
+categories: Sri Lanka
 ---
 
 Salgala is a small rainforest in the Southwestern rainforest of Sri Lanka.
 
+_Ectropis_
 
 ![Geometrid](/assets/Salgala/Geometrid.jpg)
 
-_Ectropis_
+_Tisis_
 
 ![Tisis](/assets/Salgala/Tisis.jpg)
 
-_Tisis_
+_Amusurgus_
 
 ![Amusurgus](/assets/Salgala/Amusurgus.jpg)
 
-_Amusurgus_
+_Atelius expansicornis_
 
 ![Atelius_expansicornis](/assets/Salgala/Atelius_expansicornis.jpg)
 
-_Atelius expansicornis_
+Flatidae
 
 ![Flatidae_planthopper](/assets/Salgala/Flatidae_planthopper.jpg)
 
-Flatidae
+Flatinae
 
 ![Flatinae_planthopper](/assets/Salgala/Flatinae_planthopper.jpg)
 
-Flatinae
+Hemispheridae
 
 ![Hemispheridae_planthopper](/assets/Salgala/Hemispheridae_planthopper.jpg)
 
-Hemispheridae
+Netwing
 
 ![Netwing](/assets/Salgala/Netwing.jpg)
 
-Netwing
+Dung beetle
 
 ![Scarab](/assets/Salgala/Scarab.jpg)
 
-Dung beetle
+Cicadellidae
 
 ![Planthopper](/assets/Salgala/Planthopper.jpg)
 
-Cicadellidae
+Myrmosericus
 
 ![Planthopper](/assets/Salgala/Myrmosericus.jpg)
 
-Myrmosericus
-
+Sac spider
 
 ![Planthopper](/assets/Salgala/Clubionidae.jpg)
 
 ![Planthopper](/assets/Salgala/Clubionidae1.jpg)
 
-Sac spider
