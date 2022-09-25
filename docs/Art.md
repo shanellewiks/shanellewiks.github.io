@@ -22,4 +22,8 @@ _Calotes calotes_
 
 _Ceyx erithaca_
 
-![Laselva](/assets/Art/Laselva.jpg)  ![Laselva](/assets/Art/Pavones.jpg) ![Laselva](/assets/Art/Bijagual.jpg)  ![Laselva](/assets/Art/Saltator.jpg)  ![Laselva](/assets/Art/Spurelli.jpg)  ![Laselva](/assets/Art/Loquax.jpg)
+
+<img src="/assets/Art/Laselva.jpg"  width="100" height="100">  <img src="/assets/Art/Pavones.jpg"  width="100" height="100">  <img src="/assets/Art/Bijagual.jpg"  width="100" height="100">  <img src="/assets/Art/Saltator1.jpg"  width="100" height="100">  <img src="/assets/Art/Spurelli.jpg"  width="100" height="100">  <img src="/assets/Art/Loquax.jpg"  width="100" height="100">
+
+
+Speciation continuum
