@@ -29,7 +29,8 @@ Argiope
 ![Geometrid](/assets/Bolgoda/Argiope.jpg)
 
 _Brettus cingulatus_
-<img src="/assets/Bolgoda/Brettus1.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus2.jpg"  width="375" height="375"> 
+
+<img src="/assets/Bolgoda/Brettus1.jpg"  width="300" height="300">  <img src="/assets/Bolgoda/Brettus2.jpg"  width="300" height="300"> 
 ![Geometrid](/assets/Bolgoda/Brettus3.jpg)
 <img src="/assets/Bolgoda/Brettus4.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus5.jpg"  width="375" height="375"> 
 <img src="/assets/Bolgoda/Brettus6.jpg"  width="375" height="375">  <img src="/assets/Bolgoda/Brettus7.jpg"  width="375" height="375"> 
