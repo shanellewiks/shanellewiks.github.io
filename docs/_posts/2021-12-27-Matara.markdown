@@ -9,57 +9,59 @@ categories: Sri Lanka
 
 _Antrocephalus_
 
-<img src="/assets/Matara/Antrocephalus_Chalcidoidea.jpg"  width="600" height="600">
+
+![Geometrid](/assets/Matara/Antrocephalus_Chalcidoidea.jpg)
 
 _Chalcura deprivata_
 
-<img src="/assets/Matara/Chalcura_deprivata.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Chalcura_deprivata.jpg)
 
 _Schizaspidia_
 
-<img src="/assets/Matara/Schizaspidia.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Schizaspidia.jpg)
 
 Stilt-legged Flies
 
-<img src="/assets/Matara/Micropezidae.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Micropezidae.jpg)
 
 Lauxaniid Flies
 
-<img src="/assets/Matara/Lauxaniidae.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Lauxaniidae.jpg)
 
 Derbid Planthoppers
 
-<img src="/assets/Matara/Derbidae_Planthopper.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Derbidae_Planthopper.jpg)
 
 Hybotid Dance Flies
 
-<img src="/assets/Matara/Hybotidae.jpg"  width="250" height="250">  <img src="/assets/Matara/Hybotidae1.jpg"  width="250" height="250">
+<img src="/assets/Matara/Hybotidae.jpg"  width="400" height="400">  <img src="/assets/Matara/Hybotidae1.jpg"  width="400" height="400">
+
+## Spiders
 
 _Rhene_
 
-<img src="/assets/Matara/Rhene1.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Rhene1.jpg)
 
-<img src="/assets/Matara/Rhene2.jpg"  width="250" height="250">  <img src="/assets/Matara/Rhene3.jpg"  width="250" height="250">
+<img src="/assets/Matara/Rhene2.jpg"  width="400" height="400">  <img src="/assets/Matara/Rhene3.jpg"  width="400" height="400">
 
 Kidney Garden Spider (_Bijoaraneus mitificus_)
 
-<img src="/assets/Matara/Bijoaraneus_mitificus.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Bijoaraneus_mitificus.jpg)
 
 Ant-mimic Spiders _Myrmarachne__
 
-<img src="/assets/Matara/Myrmarachne.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Myrmarachne.jpg)
 
 Long-jawed Orbweavers _Tetragnathidae_
 
-<img src="/assets/Matara/Tetragnathidae.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Tetragnathidae.jpg)
 
 _Chrysilla__
 
-<img src="/assets/Matara/Chrysilla.jpg"  width="500" height="500">
+![Geometrid](/assets/Matara/Chrysilla.jpg)
+![Geometrid](/assets/Matara/Chrysilla2.jpg)
 
-<img src="/assets/Matara/Chrysilla2.jpg"  width="500" height="500">
-
-<img src="/assets/Matara/Chrysilla1.jpg"  width="250" height="250">  <img src="/assets/Matara/Chrysilla3.jpg"  width="250" height="250">
+<img src="/assets/Matara/Chrysilla1.jpg"  width="400" height="400">  <img src="/assets/Matara/Chrysilla3.jpg"  width="400" height="400">
 
 
 
