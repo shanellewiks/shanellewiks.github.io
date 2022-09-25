@@ -7,6 +7,8 @@ categories: Sri Lanka
 
 Salgala is a small rainforest in the Southwestern rainforest of Sri Lanka.
 
+## Insects
+
 _Ectropis_
 
 ![Geometrid](/assets/Salgala/Geometrid.jpg)
@@ -50,6 +52,8 @@ Cicadellidae
 Myrmosericus
 
 ![Planthopper](/assets/Salgala/Myrmosericus.jpg)
+
+## Spiders
 
 Sac spider
 

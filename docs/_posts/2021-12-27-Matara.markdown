@@ -5,7 +5,7 @@ date:   2021-12-27 00:00:00 -0600
 categories: Sri Lanka
 ---
 
-
+## Insects
 
 _Antrocephalus_
 
@@ -59,9 +59,10 @@ Long-jawed Orbweavers _Tetragnathidae_
 _Chrysilla_
 
 ![Geometrid](/assets/Matara/Chrysilla.jpg)
+![Geometrid](/assets/Matara/Chrysilla4.jpg)
 ![Geometrid](/assets/Matara/Chrysilla2.jpg)
 
-<img src="/assets/Matara/Chrysilla1.jpg"  width="400" height="400">  <img src="/assets/Matara/Chrysilla3.jpg"  width="400" height="400">
+<img src="/assets/Matara/Chrysilla1.jpg"  width="375" height="375">  <img src="/assets/Matara/Chrysilla3.jpg"  width="375" height="375">
 
 
 
