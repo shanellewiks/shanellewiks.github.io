@@ -11,3 +11,4 @@ My undergraduate research focused on the population genetics of the endangered a
 My M.S. thesis uses neurological techniques to understand how female mate-choice affects speciation in the highly variable Red-eyed treefrog (_Agalychnis callidryas_).
 
 
+![Corytophanes cristatus](/assets/Cor1.jpg)
