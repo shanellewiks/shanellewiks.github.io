@@ -30,7 +30,8 @@ Wood Cockroaches
 
 Spineplate Millipedes
 
-<img src="/assets/Kanneliya22/Harpagophoridae1.jpg"  width="350" height="350">  <img src="/assets/Kanneliya22/Harpagophoridae.jpg"  width="350" height="350"> 
+![Geometrid](/assets/Kanneliya22/Harpagophoridae1.jpg)
+![Geometrid](/assets/Kanneliya22/Harpagophoridae.jpg)
 
 _Clinteria chloronota_
 
