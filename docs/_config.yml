@@ -15,9 +15,10 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Photography.md", title: "Photography"}
   - {url: "/SWikramanayake_CV.pdf", title: CV}
   - {url: "https://www.inaturalist.org/people/shanelle97", title: iNat}
+  - {file: "Photography.md", title: "Photography"}
+  - {file: "Art.md", title: "Art"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
