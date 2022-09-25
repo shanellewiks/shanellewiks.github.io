@@ -1,59 +1,9 @@
 ---
 layout: post
 title:  "Matara"
-date:   2022-12-27 16:56:50 -0600
-categories: jekyll update
+date:   2022-12-27 00:00:00 -0600
+categories: Sri Lanka
 ---
 
 
 
-![Geometrid](/assets/Salgala/Geometrid.jpg)
-
-_Ectropis_
-
-![Tisis](/assets/Salgala/Tisis.jpg)
-
-_Tisis_
-
-![Amusurgus](/assets/Salgala/Amusurgus.jpg)
-
-_Amusurgus_
-
-![Atelius_expansicornis](/assets/Salgala/Atelius_expansicornis.jpg)
-
-_Atelius expansicornis_
-
-![Flatidae_planthopper](/assets/Salgala/Flatidae_planthopper.jpg)
-
-Flatidae
-
-![Flatinae_planthopper](/assets/Salgala/Flatinae_planthopper.jpg)
-
-Flatinae
-
-![Hemispheridae_planthopper](/assets/Salgala/Hemispheridae_planthopper.jpg)
-
-Hemispheridae
-
-![Netwing](/assets/Salgala/Netwing.jpg)
-
-Netwing
-
-![Scarab](/assets/Salgala/Scarab.jpg)
-
-Dung beetle
-
-![Planthopper](/assets/Salgala/Planthopper.jpg)
-
-Cicadellidae
-
-![Planthopper](/assets/Salgala/Myrmosericus.jpg)
-
-Myrmosericus
-
-
-![Planthopper](/assets/Salgala/Clubionidae.jpg)
-
-![Planthopper](/assets/Salgala/Clubionidae1.jpg)
-
-Sac spider
