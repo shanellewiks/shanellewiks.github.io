@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<img src="/assets/Field_pic.jpg"  width="300" height="300">
+<img src="/assets/Field_pic.jpg"  width="250" height="250">
 
 
 I am an M.S. student in the [Robertson lab](https://jrobertsonlab.wordpress.com/) at California State University, Northridge. 
