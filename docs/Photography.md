@@ -10,7 +10,7 @@ permalink: /https://shanellewiks.github.io/photography/
 
 ## Costa Rica 
 
-##### The Casqueheaded lizard (*Corytophanes cristatus*)quickly became on my favorite lizards while I was there. 
+##### The Casqueheaded lizard (*Corytophanes cristatus*) quickly became on my favorite lizards while I was there. 
 
 ![Corytophanes cristatus](/assets/Cor1.jpg)
 
