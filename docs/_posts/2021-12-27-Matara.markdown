@@ -9,12 +9,12 @@ categories: Sri Lanka
 
 Antrocephalus_Chalcidoidea
 
-<img src="/assets/Matara/Antrocephalus_Chalcidoidea.jpg"  width="250" height="250">
+<img src="/assets/Matara/Antrocephalus_Chalcidoidea.jpg"  width="500" height="500">
 
 
 Chalcura_deprivata
 
-![Geometrid](/assets/Matara/Schizaspidia.jpg)
+
 
 Schizaspidia
 
