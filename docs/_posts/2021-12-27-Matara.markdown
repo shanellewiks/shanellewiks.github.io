@@ -34,7 +34,7 @@ Derbid Planthoppers
 
 Hybotid Dance Flies
 
-<img src="/assets/Matara/Hybotidae.jpg"  width="400" height="400">  <img src="/assets/Matara/Hybotidae1.jpg"  width="350" height="350">
+<img src="/assets/Matara/Hybotidae.jpg"  width="350" height="350">  <img src="/assets/Matara/Hybotidae1.jpg"  width="400" height="400">
 
 ## Spiders
 
@@ -42,7 +42,7 @@ _Rhene_
 
 ![Geometrid](/assets/Matara/Rhene1.jpg)
 
-<img src="/assets/Matara/Rhene2.jpg"  width="350" height="350">  <img src="/assets/Matara/Rhene3.jpg"  width="350" height="350">
+<img src="/assets/Matara/Rhene2.jpg"  width="375" height="375">  <img src="/assets/Matara/Rhene3.jpg"  width="375" height="375">
 
 Kidney Garden Spider (_Bijoaraneus mitificus_)
 
@@ -61,7 +61,7 @@ _Chrysilla_
 ![Geometrid](/assets/Matara/Chrysilla.jpg)
 ![Geometrid](/assets/Matara/Chrysilla2.jpg)
 
-<img src="/assets/Matara/Chrysilla1.jpg"  width="350" height="350">  <img src="/assets/Matara/Chrysilla3.jpg"  width="350" height="350">
+<img src="/assets/Matara/Chrysilla1.jpg"  width="375" height="375">  <img src="/assets/Matara/Chrysilla3.jpg"  width="375" height="375">
 
 
 
