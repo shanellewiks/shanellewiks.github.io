@@ -52,10 +52,12 @@ _Gasterocantha geminata_
 
 ## Birds
 
-Brown-headed Barbet (_Megalaima zeylanica_)
-
-![Gasterocantha](/assets/Bolgoda/Barbet.jpg)
 
 Indian Paradise Flycatcher (_Terpsiphone paradisi_)
 
 ![ParadiseFlycatcher](/assets/Bolgoda/Paradise.jpg)
+
+
+Brown-headed Barbet (_Megalaima zeylanica_)
+
+![Gasterocantha](/assets/Bolgoda/Barbet.jpg)
