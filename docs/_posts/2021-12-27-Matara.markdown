@@ -34,7 +34,8 @@ Derbid Planthoppers
 
 Hybotid Dance Flies
 
-<img src="/assets/Matara/Hybotidae.jpg"  width="350" height="350">  <img src="/assets/Matara/Hybotidae1.jpg"  width="400" height="400">
+<img src="/assets/Matara/Hybotidae.jpg"  width="550" height="550">  
+<img src="/assets/Matara/Hybotidae1.jpg"  width="550" height="550">
 
 ## Spiders
 
