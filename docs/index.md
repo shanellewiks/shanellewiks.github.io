@@ -13,4 +13,4 @@ My undergraduate [research](https://doi.org/10.1111/btp.12970) focused on the po
 My M.S. thesis uses neurological techniques to understand how female mate-choice affects speciation in the highly variable Red-eyed treefrog (_Agalychnis callidryas_).
 
 
-<img src="/assets/Aspera.jpg"  width="375" height="375">  <img src="/assets/RETFHome.jpg"  width="375" height="375">
+<img src="/assets/Aspera.jpg"  width="400" height="400">  <img src="/assets/RETFHome.jpg"  width="375" height="375">
