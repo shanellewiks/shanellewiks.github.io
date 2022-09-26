@@ -24,7 +24,7 @@ Here are some of them.
 
 ![Crow](/assets/Home/Crow.jpg)
 
-<img src="/assets/Home/Parotid1.jpg"  width="375" height="375">  <img src="/assets/Home/Parotid1.jpg"  width="375" height="375">
+<img src="/assets/Home/Parotid1.jpg"  width="375" height="375">  <img src="/assets/Home/Parotid2.jpg"  width="375" height="375">
 
 
 ## Odonata
