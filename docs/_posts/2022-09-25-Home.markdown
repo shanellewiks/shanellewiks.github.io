@@ -12,18 +12,25 @@ Here are some of them.
  
 ## Lepidopterans
 
+Apefly (_Spalgis epius_)
 ![Apefly](/assets/Home/Apefly.jpg)
-
+	
+Common Tiger Butterfly (_Danaus genutia_)
 ![Tiger](/assets/Home/Tiger.jpg)
 
+Lemon Migrant (_Catopsilia pomona_)
 ![Sulfur](/assets/Home/Sulfur.jpg)
 
+Common Jezebel (_Delias eucharis_)
 ![Jezebel](/assets/Home/Jezebel.jpg)
 
+Great Eggfly (_Hypolimnas bolina_)
 ![Great_eggfly](/assets/Home/Great_eggfly.jpg)
 
+Common Crow Butterfly (_Euploea core_)
 ![Crow](/assets/Home/Crow.jpg)
 
+_Parotis_ moth
 <img src="/assets/Home/Parotid1.jpg"  width="550" height="550"> 
  <img src="/assets/Home/Parotid2.jpg"  width="550" height="550">
 
@@ -32,31 +39,42 @@ Here are some of them.
 
 ![Dewed](/assets/Home/Dewed.jpg)
 
+Scarlet Basker (_Urothemis signata_)
 ![WanderingGlider](/assets/Home/WanderingGlider.jpg)
 
+_Agriocnemis pygmaea_
 ![Damsel](/assets/Home/Damsel.jpg)
+
+Orange-tailed Marsh Dart (_Ceriagrion cerinorubellum_)
 
 ![CCPrey](/assets/Home/CCPrey.jpg)
 
+Orange-faced Sprite (_Pseudagrion rubriceps_)
 ![OFS1](/assets/Home/OFS1.jpg)
 <img src="/assets/Home/OFS2.jpg"  width="375" height="375">  <img src="/assets/Home/OFS3.jpg"  width="375" height="375">
 
 ## Other insects
 
+Stilt-legged Flies (Micropezidae)
 ![Texatara](/assets/Home/Texatara.jpg)
 
 ![Greenfly](/assets/Home/Greenfly.jpg)
 
 ![Greenfly1](/assets/Home/Greenfly1.jpg)
 
+Lauxaniid Flies
 ![Picturewing](/assets/Home/Picturewing.jpg)
 
+Acalyptrate Flies
 ![Waterfly](/assets/Home/Waterfly.jpg)
 
+Ommatiini Robberfly
 ![Robberfly](/assets/Home/Robberfly.jpg)
 
+_Microchrysa_ soldier fly
 ![Microchrysa](/assets/Home/Microchrysa.jpg)
 
+_Syritta orientalis_ syrphid fly
 ![Horsefly](/assets/Home/Horsefly.jpg)
 
 ![Soldierfly](/assets/Home/Soldierfly.jpg)
@@ -65,18 +83,24 @@ Here are some of them.
 
 ![Condylostylus2](/assets/Home/Condylostylus2.jpg)
 
+_Ogcodes_ small headed fly
 ![Nosedfly](/assets/Home/Nosedfly.jpg)
 
+_Telostylinus_ Acalyptrate Flies
 ![Bananafly](/assets/Home/Bananafly.jpg)
 
+Asian Ant Mantis (_Odontomantis planiceps_)
 ![Antmantis](/assets/Home/Antmantis.jpg)
 
+Sri Lanka Weevil _Myllocerus undecimpustulatus_
 ![Whiteweavil](/assets/Home/Whiteweavil.jpg)
 
 ![Lacewing](/assets/Home/Lacewing.jpg)
 
+Typical leaf hopper Cicadellidae
 ![Planthopper](/assets/Home/Planthopper.jpg)
 
+_Chalcura deprivata_
 ![Chalcura1](/assets/Home/Chalcura1.jpg)
 
 ![Chalcura2](/assets/Home/Chalcura2.jpg)
