@@ -40,3 +40,31 @@ Here are some of them.
 
 ![OFS1](/assets/Home/OFS1.jpg)
 <img src="/assets/Home/OFS2.jpg"  width="375" height="375">  <img src="/assets/Home/OFS3.jpg"  width="375" height="375">
+
+## Other insects
+
+![Texatara](/assets/Home/Texatara.jpg)
+
+![Greenfly](/assets/Home/Greenfly.jpg)
+
+![Greenfly1](/assets/Home/Greenfly1.jpg)
+
+![Picturewing](/assets/Home/Picturewing.jpg)
+
+![Waterfly](/assets/Home/Waterfly.jpg)
+
+![Robberfly](/assets/Home/Robberfly.jpg)
+
+![Microchrysa](/assets/Home/Microchrysa.jpg)
+
+![Horsefly](/assets/Home/Horsefly.jpg)
+
+![Soldierfly](/assets/Home/Soldierfly.jpg)
+
+![Condylostylus1](/assets/Home/Condylostylus1.jpg)
+
+![Condylostylus2](/assets/Home/Condylostylus2.jpg)
+
+![Nosedfly](/assets/Home/Nosedfly.jpg)
+
+
