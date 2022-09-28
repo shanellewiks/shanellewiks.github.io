@@ -31,8 +31,10 @@ Common Crow Butterfly (_Euploea core_)
 ![Crow](/assets/Home/Crow.jpg)
 
 _Parotis_ moth
+
+<img src="/assets/Home/Parotid2.jpg"  width="550" height="550">
 <img src="/assets/Home/Parotid1.jpg"  width="550" height="550"> 
- <img src="/assets/Home/Parotid2.jpg"  width="550" height="550">
+
 
 
 ## Odonata
@@ -58,6 +60,8 @@ Orange-faced Sprite (_Pseudagrion rubriceps_)
 Stilt-legged Flies (Micropezidae)
 ![Texatara](/assets/Home/Texatara.jpg)
 
+Chrysomya
+
 ![Greenfly](/assets/Home/Greenfly.jpg)
 
 ![Greenfly1](/assets/Home/Greenfly1.jpg)
@@ -80,6 +84,8 @@ _Syritta orientalis_ syrphid fly
 Sargus
 ![Soldierfly](/assets/Home/Soldierfly.jpg)
 
+Tabaninae
+
 ![Condylostylus1](/assets/Home/Condylostylus1.jpg)
 
 ![Condylostylus2](/assets/Home/Condylostylus2.jpg)
@@ -96,15 +102,18 @@ Asian Ant Mantis (_Odontomantis planiceps_)
 Sri Lanka Weevil _Myllocerus undecimpustulatus_
 ![Whiteweavil](/assets/Home/Whiteweavil.jpg)
 
+Myrmeleontinae
+
 ![Lacewing](/assets/Home/Lacewing.jpg)
 
 Typical leaf hopper Cicadellidae
 ![Planthopper](/assets/Home/Planthopper.jpg)
 
 _Chalcura deprivata_
-![Chalcura1](/assets/Home/Chalcura1.jpg)
 
 ![Chalcura2](/assets/Home/Chalcura2.jpg)
+
+![Chalcura1](/assets/Home/Chalcura1.jpg)
 
 ![Chalcura3](/assets/Home/Chalcura3.jpg)
 
