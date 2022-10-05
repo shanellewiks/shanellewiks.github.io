@@ -14,5 +14,6 @@ My M.S. thesis uses neurological techniques to understand how female mate-choice
 
 Contact: 
 shanelle.wikramanayake.101@my.csun.edu
+
 <img src="/assets/Aspera.jpg"  width="375" height="375">  <img src="/assets/RETFHome.jpg"  width="350" height="350">
 
