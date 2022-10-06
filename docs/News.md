@@ -12,6 +12,10 @@ Feature in Mongabay: [Forest fragmentation split up this lizard’s population. 
 
 Feature in the University of Washington, Biology department website: [... featured in UW News for research on Sri Lankan lizards](https://www.biology.washington.edu/news/news/1628117100-1636065900/recent-uw-biology-graduate-shanelle-wikramanayake-and-adam-leach%C3%A9)
 
+Feature on Parrotfish Collective: [World Lizard day](https://www.instagram.com/p/CSip6WkBLS1/?hl=en)
+
 Feature in the Burke Museum [Tracking elusive lizards in Sri Lanka](https://www.burkemuseum.org/news/tracking-elusive-lizards-sri-lanka)
+
+Feature on Parrotfish Collective: [Island Spell Series 3](https://www.instagram.com/p/B_Y4BuahV20/?hl=en)
 
 Guest writer for the Urban Fishing Cat Conservation Project: [THE BEAUTY OF AN URBAN WETLAND](https://fishingcats.lk/the-beauty-of-an-urban-wetland/#more-731) 
