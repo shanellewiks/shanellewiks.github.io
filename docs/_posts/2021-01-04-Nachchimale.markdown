@@ -11,25 +11,25 @@ Nachchimale is a small rainforest in the Southwestern rainforest of Sri Lanka.
 
 Round-eyed Geckos _Cnemaspis_
 
-![Geometrid](/assets/Nachchimale/Cnemaspis.jpg)
-![Geometrid](/assets/Nachchimale/Cnemaspis1.jpg)
+![Cnemaspis](/assets/Nachchimale/Cnemaspis.jpg)
+![Cnemaspis](/assets/Nachchimale/Cnemaspis1.jpg)
 
 
 Schneider's Shrub Frog (_Pseudophilautus schneideri_)
 
-![Geometrid](/assets/Nachchimale/NaaFrog.jpg)
-![Geometrid](/assets/Nachchimale/NaaFrog1.jpg)
+![Pseudophilautus schneideri](/assets/Nachchimale/NaaFrog.jpg)
+![Pseudophilautus schneideri](/assets/Nachchimale/NaaFrog1.jpg)
 
 ## Insects
 
 Nymph of _Hapalopezella maculata_
-![Geometrid](/assets/Nachchimale/Mantis.jpg)
-![Geometrid](/assets/Nachchimale/Mantis1.jpg)
+![Mantis](/assets/Nachchimale/Mantis.jpg)
+![Mantis](/assets/Nachchimale/Mantis1.jpg)
 
 ## Spiders
 
-Salticid
+Idastrandia
 
-![Geometrid](/assets/Nachchimale/Salticid.jpg)
+![Idastrandia](/assets/Nachchimale/Salticid.jpg)
 
 

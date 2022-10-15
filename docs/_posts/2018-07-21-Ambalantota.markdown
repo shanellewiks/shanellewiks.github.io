@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kanneliya"
-date:   2021-12-22 00:00:00 -0600
+title:  "Ambalantota"
+date:   2018-07-21 00:00:00 -0600
 categories: Sri Lanka
 ---
 
