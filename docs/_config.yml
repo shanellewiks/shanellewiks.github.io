@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake.101@my.csun.edu"}
   - {title: Github, icon: github, url: "https://https://github.com/shanellewiks"}
-  
+    
   
 remote_theme: niklasbuschmann/contrast@v2.11
 
