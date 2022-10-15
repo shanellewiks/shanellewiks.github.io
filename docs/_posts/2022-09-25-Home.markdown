@@ -61,7 +61,6 @@ Stilt-legged Flies (Micropezidae)
 ![Texatara](/assets/Home/Texatara.jpg)
 
 Chrysomya
-
 ![Greenfly](/assets/Home/Greenfly.jpg)
 
 ![Greenfly1](/assets/Home/Greenfly1.jpg)
@@ -85,7 +84,6 @@ Sargus
 ![Soldierfly](/assets/Home/Soldierfly.jpg)
 
 Tabaninae
-
 ![Condylostylus1](/assets/Home/Condylostylus1.jpg)
 
 ![Condylostylus2](/assets/Home/Condylostylus2.jpg)
@@ -103,14 +101,12 @@ Sri Lanka Weevil _Myllocerus undecimpustulatus_
 ![Whiteweavil](/assets/Home/Whiteweavil.jpg)
 
 Myrmeleontinae
-
 ![Lacewing](/assets/Home/Lacewing.jpg)
 
 Typical leaf hopper Cicadellidae
 ![Planthopper](/assets/Home/Planthopper.jpg)
 
 _Chalcura deprivata_
-
 ![Chalcura2](/assets/Home/Chalcura2.jpg)
 
 ![Chalcura1](/assets/Home/Chalcura1.jpg)
@@ -120,7 +116,6 @@ _Chalcura deprivata_
 ## Spiders
 
 _Oxyopes macilentus_
-
 <img src="/assets/Home/Oxyopes_macilentus.jpg"  width="375" height="375">  <img src="/assets/Home/Oxyopes_macilentus2.jpg"  width="375" height="375">
 
 _Oxyopes_ 
@@ -133,19 +128,16 @@ _Oxyopes_
 ![Oxyopes_macilentus](/assets/Home/Oxyopes_flower2.jpg)
 
 _Oxytate subvirens_
-
 ![Oxytate_subvirens](/assets/Home/Oxytate_subvirens.jpg)
 
 ![Oxytate_subvirens](/assets/Home/Oxytate_subvirens2.jpg)
 
 Neoscona
-
 ![Neoscona](/assets/Home/Neoscona.jpg)
 
 #### Salticids
 
 _Plexippus_
-
 ![Plexippus](/assets/Home/Plexippus2.jpg)
 
 ![Plexippus](/assets/Home/Plexippus3.jpg)
@@ -155,7 +147,6 @@ _Plexippus_
 ![Plexippus5](/assets/Home/Plexippus5.jpg)
 
 _Colopsus_
-
 ![Colopsus](/assets/Home/Colopsus3.jpg)
 
 <img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus2.jpg"  width="375" height="375">
@@ -166,17 +157,14 @@ _Colopsus_
 <img src="/assets/Home/Colopsus7.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus8.jpg"  width="375" height="375">
 
 Phintelloides
-
 ![Phintelloides](/assets/Home/Phintelloides.jpg)
 
 _Siler semiglaucus_
-
 ![Siler_semiglaucus](/assets/Home/Siler_semiglaucus.jpg)
 
 ![Siler_semiglaucus](/assets/Home/Siler_semiglaucus2.jpg)
 
 _Telamonia dimidiata_
-
 ![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata5.jpg)
 
 ![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata4.jpg)
@@ -184,8 +172,31 @@ _Telamonia dimidiata_
 <img src="/assets/Home/Telamonia_dimidiata.jpg"  width="375" height="375">  <img src="/assets/Home/Telamonia_dimidiata2.jpg"  width="375" height="375">
 
 Salticid sp.
-
 ![Unk_sp3](/assets/Home/Unk_sp3.jpg)
 
 <img src="/assets/Home/Unk_sp.jpg"  width="375" height="375">  <img src="/assets/Home/Unk_sp2.jpg"  width="375" height="375">
 
+## Frogs
+
+Common Hourglass Tree Frog (_Polypedates cruciger_)
+![Polypedates_cruciger](/assets/Home/Polypedates_cruciger.jpg)
+![Polypedates_cruciger](/assets/Home/Polypedates_cruciger2.jpg)
+
+Sri Lanka Wood Frog (_Hydrophylax gracilis_)
+![Hydrophylax_gracilis](/assets/Home/Hydrophylax_gracilis.jpg)
+
+## Lizards
+
+_Calotes calotes_
+![Calotes calotes](/assets/Home/CC1.jpg)
+<img src="/assets/Home/CC2.jpg"  width="375" height="375">  <img src="/assets/Home/CC3.jpg"  width="375" height="375">
+<img src="/assets/Home/CC4.jpg"  width="375" height="375">  <img src="/assets/Home/CC5.jpg"  width="375" height="375">
+<img src="/assets/Home/CC6.jpg"  width="375" height="375">  <img src="/assets/Home/CC7.jpg"  width="375" height="375">
+<img src="/assets/Home/CC8.jpg"  width="375" height="375">  <img src="/assets/Home/CC9.jpg"  width="375" height="375">
+<img src="/assets/Home/CV1.jpg"  width="375" height="375">  <img src="/assets/Home/CV2.jpg"  width="375" height="375">
+
+Spotted House Gecko (_Hemidactylus parvimaculatus_)
+![Hemidactylus parvimaculatus](/assets/Home/Hydrophylax_gracilis.jpg)
+
+Common Lanka Skink (_Lankascincus fallax_)
+![Lankascincus fallax](/assets/Home/Skink.jpg)

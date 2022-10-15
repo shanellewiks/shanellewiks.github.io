@@ -14,7 +14,7 @@ Ambalantota is a town located on the coast of the Southern province of Sri Lanka
 _Chrysilla volupe_
 ![Chrysilla_volupe](/assets/Ambalantota/Chrysilla_volupe.jpg)
 
-<img src="/assets/Ambalantota/Chrysilla_volupe2.jpg"  width="375" height="375">  <img src="/assets/Ambalantota/Chrysilla_volupe3.jpg"  width="375" height="375">
+<img src="/assets/Ambalantota/Chrysilla_volupe2.jpg"  width="380" height="380">  <img src="/assets/Ambalantota/Chrysilla_volupe3.jpg"  width="380" height="380">
 
 ## Dragonflies
 	
