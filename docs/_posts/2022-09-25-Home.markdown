@@ -124,7 +124,7 @@ _Oxyopes macilentus_
 <img src="/assets/Home/Oxyopes_macilentus.jpg"  width="375" height="375">  <img src="/assets/Home/Oxyopes_macilentus2.jpg"  width="375" height="375">
 
 _Oxyopes_ 
-##### Two of the spiders legs are missing in the first picture. Within ~2 days the spider was able to regrow those legs/
+##### Two of the spiders legs are missing in the first picture. Within ~2 days the spider was able to regrow those legs!
 
 <img src="/assets/Home/Oxyopes_Orange.jpg"  width="375" height="375">  <img src="/assets/Home/Oxyopes_Orange2.jpg"  width="375" height="375">
 
@@ -140,15 +140,18 @@ _Oxytate subvirens_
 
 Neoscona
 
-![Neoscona](/assets/Home/Neosconas.jpg)
+![Neoscona](/assets/Home/Neoscona.jpg)
 
-### Salticids
+#### Salticids
 
 _Plexippus_
 
 ![Plexippus](/assets/Home/Plexippus2.jpg)
+
 ![Plexippus](/assets/Home/Plexippus3.jpg)
+
 ![Plexippus](/assets/Home/Plexippus4.jpg)
+
 ![Plexippus](/assets/Home/Plexippus5.jpg)
 
 _Colopsus_
@@ -162,6 +165,7 @@ Phintelloides
 ![Phintelloides](/assets/Home/Phintelloides.jpg)
 
 _Siler semiglaucus_
+
 ![Siler_semiglaucus](/assets/Home/Siler_semiglaucus2.jpg)
 
 ![Siler_semiglaucus](/assets/Home/Siler_semiglaucus.jpg)
