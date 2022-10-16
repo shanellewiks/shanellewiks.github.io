@@ -93,7 +93,7 @@ _Telostylinus_ Acalyptrate Flies
 Asian Ant Mantis (_Odontomantis planiceps_)
 ![Antmantis](/assets/Home/Antmantis.jpg)
 
-Sri Lanka Weevil _Myllocerus undecimpustulatus_
+Sri Lanka Weevil (_Myllocerus undecimpustulatus_)
 ![Whiteweavil](/assets/Home/Whiteweavil.jpg)
 
 Myrmeleontinae
@@ -110,6 +110,7 @@ _Chalcura deprivata_
 ## Spiders
 
 _Oxyopes macilentus_
+
 <img src="/assets/Home/Oxyopes_macilentus.jpg"  width="375" height="375">  <img src="/assets/Home/Oxyopes_macilentus2.jpg"  width="375" height="375">
 
 _Oxyopes_ 
@@ -182,7 +183,6 @@ _Calotes calotes_
 ![Calotes calotes](/assets/Home/CC6.jpg)
 ![Calotes calotes](/assets/Home/CC7.jpg)
 ![Calotes calotes](/assets/Home/CC8.jpg)
-![Calotes calotes](/assets/Home/CC9.jpg)
 
 _Calotes versicolor_
 ![Calotes calotes](/assets/Home/CV1.jpg)
