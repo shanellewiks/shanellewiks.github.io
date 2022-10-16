@@ -31,7 +31,6 @@ Common Crow Butterfly (_Euploea core_)
 ![Crow](/assets/Home/Crow.jpg)
 
 _Parotis_ moth
-
 <img src="/assets/Home/Parotid2.jpg"  width="550" height="550">
 <img src="/assets/Home/Parotid1.jpg"  width="550" height="550"> 
 
@@ -48,7 +47,6 @@ _Agriocnemis pygmaea_
 ![Damsel](/assets/Home/Damsel.jpg)
 
 Orange-tailed Marsh Dart (_Ceriagrion cerinorubellum_)
-
 ![CCPrey](/assets/Home/CCPrey.jpg)
 
 Orange-faced Sprite (_Pseudagrion rubriceps_)
@@ -62,7 +60,6 @@ Stilt-legged Flies (Micropezidae)
 
 Chrysomya
 ![Greenfly](/assets/Home/Greenfly.jpg)
-
 ![Greenfly1](/assets/Home/Greenfly1.jpg)
 
 Lauxaniid Flies
@@ -85,7 +82,6 @@ Sargus
 
 Tabaninae
 ![Condylostylus1](/assets/Home/Condylostylus1.jpg)
-
 ![Condylostylus2](/assets/Home/Condylostylus2.jpg)
 
 _Ogcodes_ small headed fly
@@ -108,9 +104,7 @@ Typical leaf hopper Cicadellidae
 
 _Chalcura deprivata_
 ![Chalcura2](/assets/Home/Chalcura2.jpg)
-
 ![Chalcura1](/assets/Home/Chalcura1.jpg)
-
 ![Chalcura3](/assets/Home/Chalcura3.jpg)
 
 ## Spiders
@@ -124,12 +118,10 @@ _Oxyopes_
 <img src="/assets/Home/Oxyopes_Orange.jpg"  width="375" height="375">  <img src="/assets/Home/Oxyopes_Orange2.jpg"  width="375" height="375">
 
 ![Oxyopes_macilentus](/assets/Home/Oxyopes_flower.jpg)
-
 ![Oxyopes_macilentus](/assets/Home/Oxyopes_flower2.jpg)
 
 _Oxytate subvirens_
 ![Oxytate_subvirens](/assets/Home/Oxytate_subvirens.jpg)
-
 ![Oxytate_subvirens](/assets/Home/Oxytate_subvirens2.jpg)
 
 Neoscona
@@ -139,20 +131,16 @@ Neoscona
 
 _Plexippus_
 ![Plexippus](/assets/Home/Plexippus2.jpg)
-
 ![Plexippus](/assets/Home/Plexippus3.jpg)
-
 ![Plexippus4](/assets/Home/Plexippus4.jpg)
-
 ![Plexippus5](/assets/Home/Plexippus5.jpg)
 
 _Colopsus_
 ![Colopsus](/assets/Home/Colopsus3.jpg)
 
-<img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus2.jpg"  width="375" height="375">
+<img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">
 
-
-![Colopsus](/assets/Home/Colopsus6.jpg)
+![Colopsus6](/assets/Home/Colopsus6.jpg)
 
 <img src="/assets/Home/Colopsus7.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus8.jpg"  width="375" height="375">
 
@@ -160,13 +148,11 @@ Phintelloides
 ![Phintelloides](/assets/Home/Phintelloides.jpg)
 
 _Siler semiglaucus_
-![Siler_semiglaucus](/assets/Home/Siler_semiglaucus.jpg)
-
 ![Siler_semiglaucus](/assets/Home/Siler_semiglaucus2.jpg)
+![Siler_semiglaucus](/assets/Home/Siler_semiglaucus.jpg)
 
 _Telamonia dimidiata_
 ![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata5.jpg)
-
 ![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata4.jpg)
 
 <img src="/assets/Home/Telamonia_dimidiata.jpg"  width="375" height="375">  <img src="/assets/Home/Telamonia_dimidiata2.jpg"  width="375" height="375">
@@ -189,14 +175,21 @@ Sri Lanka Wood Frog (_Hydrophylax gracilis_)
 
 _Calotes calotes_
 ![Calotes calotes](/assets/Home/CC1.jpg)
-<img src="/assets/Home/CC2.jpg"  width="375" height="375">  <img src="/assets/Home/CC3.jpg"  width="375" height="375">
-<img src="/assets/Home/CC4.jpg"  width="375" height="375">  <img src="/assets/Home/CC5.jpg"  width="375" height="375">
-<img src="/assets/Home/CC6.jpg"  width="375" height="375">  <img src="/assets/Home/CC7.jpg"  width="375" height="375">
-<img src="/assets/Home/CC8.jpg"  width="375" height="375">  <img src="/assets/Home/CC9.jpg"  width="375" height="375">
-<img src="/assets/Home/CV1.jpg"  width="375" height="375">  <img src="/assets/Home/CV2.jpg"  width="375" height="375">
+![Calotes calotes](/assets/Home/CC2.jpg)
+![Calotes calotes](/assets/Home/CC3.jpg)
+![Calotes calotes](/assets/Home/CC4.jpg)
+![Calotes calotes](/assets/Home/CC5.jpg)
+![Calotes calotes](/assets/Home/CC6.jpg)
+![Calotes calotes](/assets/Home/CC7.jpg)
+![Calotes calotes](/assets/Home/CC8.jpg)
+![Calotes calotes](/assets/Home/CC9.jpg)
+
+_Calotes versicolor_
+![Calotes calotes](/assets/Home/CV1.jpg)
+![Calotes calotes](/assets/Home/CV2.jpg)
 
 Spotted House Gecko (_Hemidactylus parvimaculatus_)
-![Hemidactylus parvimaculatus](/assets/Home/Hydrophylax_gracilis.jpg)
+![Hemidactylus parvimaculatus](/assets/Home/Hemidactylus.jpg)
 
 Common Lanka Skink (_Lankascincus fallax_)
 ![Lankascincus fallax](/assets/Home/Skink.jpg)
