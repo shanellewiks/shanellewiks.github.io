@@ -31,6 +31,7 @@ Common Crow Butterfly (_Euploea core_)
 ![Crow](/assets/Home/Crow.jpg)
 
 _Parotis_ moth
+
 <img src="/assets/Home/Parotid2.jpg"  width="550" height="550">
 <img src="/assets/Home/Parotid1.jpg"  width="550" height="550"> 
 
@@ -198,6 +199,7 @@ Common Lanka Skink (_Lankascincus fallax_)
 ## Birds
 
 Purple-rumped Sunbird (_Leptocoma zeylonica_)
+
 <img src="/assets/Home/Sunbird.jpg"  width="375" height="375">  <img src="/assets/Home/Sunbird2.jpg"  width="375" height="375">
 
 
