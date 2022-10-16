@@ -133,30 +133,30 @@ Neoscona
 _Plexippus_
 ![Plexippus](/assets/Home/Plexippus2.jpg)
 ![Plexippus](/assets/Home/Plexippus3.jpg)
-![Plexippus4](/assets/Home/Plexippus4.jpg)
-![Plexippus5](/assets/Home/Plexippus5.jpg)
+![Plexippus4](/assets/Home/Plex4.jpg)
+![Plexippus5](/assets/Home/Plex5.jpg)
 
 _Colopsus_
-![Colopsus](/assets/Home/Colopsus3.jpg)
+![Colopsus](/assets/Home/CP1.jpg)
 
-<img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus4.jpg"  width="375" height="375">
+<img src="/assets/Home/CP3.jpg"  width="375" height="375">  <img src="/assets/Home/CP2.jpg"  width="375" height="375">
 
-![Colopsus6](/assets/Home/Colopsus6.jpg)
+![Colopsus6](/assets/Home/CP4.jpg)
 
-<img src="/assets/Home/Colopsus7.jpg"  width="375" height="375">  <img src="/assets/Home/Colopsus8.jpg"  width="375" height="375">
+<img src="/assets/Home/CP5.jpg"  width="375" height="375">  <img src="/assets/Home/CP6.jpg"  width="375" height="375">
 
 Phintelloides
-![Phintelloides](/assets/Home/Phintelloides.jpg)
+![Phintelloides](/assets/Home/Phintella.jpg)
 
 _Siler semiglaucus_
-![Siler_semiglaucus](/assets/Home/Siler_semiglaucus2.jpg)
-![Siler_semiglaucus](/assets/Home/Siler_semiglaucus.jpg)
+![Siler_semiglaucus](/assets/Home/SS1.jpg)
+![Siler_semiglaucus](/assets/Home/SS2.jpg)
 
 _Telamonia dimidiata_
-![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata5.jpg)
-![Telamonia_dimidiata](/assets/Home/Telamonia_dimidiata4.jpg)
+![Telamonia_dimidiata](/assets/Home/TD3.jpg)
+![Telamonia_dimidiata](/assets/Home/TD.jpg)
 
-<img src="/assets/Home/Telamonia_dimidiata.jpg"  width="375" height="375">  <img src="/assets/Home/Telamonia_dimidiata2.jpg"  width="375" height="375">
+<img src="/assets/Home/TD1.jpg"  width="375" height="375">  <img src="/assets/Home/TD2.jpg"  width="375" height="375">
 
 Salticid sp.
 ![Unk_sp3](/assets/Home/Unk_sp3.jpg)
@@ -183,13 +183,31 @@ _Calotes calotes_
 ![Calotes calotes](/assets/Home/CC6.jpg)
 ![Calotes calotes](/assets/Home/CC7.jpg)
 ![Calotes calotes](/assets/Home/CC8.jpg)
+![Calotes calotes](/assets/Home/CC9.jpg)
 
 _Calotes versicolor_
-![Calotes calotes](/assets/Home/CV1.jpg)
 ![Calotes calotes](/assets/Home/CV2.jpg)
+![Calotes calotes](/assets/Home/CV1.jpg)
 
 Spotted House Gecko (_Hemidactylus parvimaculatus_)
 ![Hemidactylus parvimaculatus](/assets/Home/Hemidactylus.jpg)
 
 Common Lanka Skink (_Lankascincus fallax_)
 ![Lankascincus fallax](/assets/Home/Skink.jpg)
+
+## Birds
+
+Purple-rumped Sunbird (_Leptocoma zeylonica_)
+<img src="/assets/Home/Sunbird.jpg"  width="375" height="375">  <img src="/assets/Home/Sunbird2.jpg"  width="375" height="375">
+
+
+Common Tailorbird (_Orthotomus sutorius_)
+![Tailorbird](/assets/Home/Tailorbird.jpg)
+
+Rose-ringed Parakeet(_Psittacula krameri_)
+![Parrot](/assets/Home/RRParrot.jpg)
+
+## Mammals
+
+Indian Flying Fox (_Pteropus giganteus_)
+![Bat](/assets/Home/Pteropus.jpg)
