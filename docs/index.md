@@ -1,7 +1,6 @@
 ---
 layout: page
-title: ""
-![Logo](/assets/Logo.jpg)
+title: ![Logo](/assets/Logo.jpg) ""
 ---
 
 
