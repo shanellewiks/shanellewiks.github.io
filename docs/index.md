@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+![Logo](/assets/Logo.jpg)
 ---
 
 
