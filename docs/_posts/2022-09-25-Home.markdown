@@ -6,7 +6,7 @@ categories: Sri Lanka
 ---
 I am very lucky to have grown up with a home garden. 
 My home garden was one of the first places that got me interested in the natural world. 
-I grew up around Hourglass treefrogs (Polypydates cruciger), Green garden lizards (Calotes calotes), and many other small but wonderful creatures. 
+I grew up around Hourglass treefrogs (_Polypydates cruciger_), Green garden lizards (_Calotes calotes_), and many other small but wonderful creatures. 
 Here are some of them. 
 
  
@@ -206,7 +206,7 @@ Purple-rumped Sunbird (_Leptocoma zeylonica_)
 Common Tailorbird (_Orthotomus sutorius_)
 ![Tailorbird](/assets/Home/Tailorbird.jpg)
 
-Rose-ringed Parakeet(_Psittacula krameri_)
+Rose-ringed Parakeet (_Psittacula krameri_)
 ![Parrot](/assets/Home/RRParrot.jpg)
 
 ## Mammals
