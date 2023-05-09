@@ -8,7 +8,7 @@ permalink: /https://shanellewiks.github.io/photography/
 
 ##### I enjoy taking pictures of nature and wildlife. My fieldwork takes me to tropical rainforests where I get to see many incredible organisms. I'm excited to share my experiences with others through my pictures.
 
-![HerpReview Cover](/assets/HR_Cover.jpg)
+![HerpReview Cover](/assets/HR_Cover.png)
 ##### Otocryptis weigmanni from Gongala forest reserve made it on the cover of Herpetological Review
 
 {% if site.show_excerpts %}
