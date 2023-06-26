@@ -18,9 +18,7 @@ permalink: /https://shanellewiks.github.io/photography/
   {% include home.html %}
 {% else %}
   {% include archive.html title="Posts" %}
-{% endif %}
-
-<img src="/assets/Cor2.jpg"  width="400" height="400">
+{% endif %} <img src="/assets/Cor2.jpg"  width="400" height="400">
 
 
 
