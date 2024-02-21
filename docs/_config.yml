@@ -11,7 +11,7 @@ logo: /assets/Art/RETF.jpg
 show_social: true         # show footer
 show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 
 # Menu
 
@@ -22,12 +22,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Photography.md", title: "Photography"}
   - {file: "Art.md", title: "Art"}
 
-
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake.101@my.csun.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake@colostate.edu"}
   - {title: Github, icon: github, url: "https://https://github.com/shanellewiks"}
-    
-  
+
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
