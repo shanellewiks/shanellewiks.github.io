@@ -5,20 +5,14 @@ title: "Digital Artwork"
 permalink: /https://shanellewiks.github.io/art/
 
 ---
-_Agalychnis callidryas_
-![Red-eyed treefrog](/assets/Art/RETF.jpg)
+_Agalychnis callidryas_ and _Agalychnis saltator_
 
-
-_Agalychnis saltator_
-![Saltating treefrog](/assets/Art/Saltator.jpg)
-
+<img src="/assets/Art/RETF.jpg"  width="380" height="380">  <img src="/assets/Art/Saltator.jpg"  width="380" height="380">
 
 _Calotes calotes_
-![Calotes calotes](/assets/Art/Calotes.jpg)
-
+<img src="/assets/Art/Calotes.jpg"  width="480" height="480">
 
 _Ceyx erithaca_
-![Kingfisher](/assets/Art/DwarfKingfisher.jpg)
-
+<img src="/assets/Art/DwarfKingfisher.jpg"  width="480" height="480">
 
 
