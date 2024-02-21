@@ -7,7 +7,7 @@ permalink: /https://shanellewiks.github.io/art/
 ---
 _Agalychnis callidryas_ and _Agalychnis saltator_
 
-<img src="/assets/Art/RETF.jpg"  width="380" height="380">  <img src="/assets/Art/Saltator.jpg"  width="350" height="350">
+<img src="/assets/Art/RETF.jpg"  width="410" height="410">  <img src="/assets/Art/Saltator.jpg"  width="350" height="350">
 
 _Calotes calotes_
 
