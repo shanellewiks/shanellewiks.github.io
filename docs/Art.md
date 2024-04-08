@@ -12,6 +12,10 @@ _Agalychnis callidryas_ and _Agalychnis saltator_
 A phylomedusine species continuum.
 ![Phylomedusines](/assets/Art/Phylomedusines.png)
 
+_Oophaga pumilio_
+
+<img src="/assets/Art/Pumilio.png"  width="480" height="480">
+
 _Calotes calotes_
 
 <img src="/assets/Art/Calotes.jpg"  width="480" height="480">
