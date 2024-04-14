@@ -20,8 +20,13 @@ _Calotes calotes_
 
 <img src="/assets/Art/Calotes.jpg"  width="480" height="480">
 
+_Lyriocephalus scutatus_
+
+<img src="/assets/Art/Lscutatus.png"  width="480" height="480">
+
 _Ceyx erithaca_
 
 <img src="/assets/Art/DwarfKingfisher.jpg"  width="480" height="480">
+
 
 
