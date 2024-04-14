@@ -22,7 +22,7 @@ _Calotes calotes_
 
 _Lyriocephalus scutatus_
 
-<img src="/assets/Art/Lscutatus.png"  width="480" height="480">
+![Phylomedusines](/assets/Art/Lscutatus.png)
 
 _Ceyx erithaca_
 
