@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "News.md", title: "News"}
   - {url: "https://www.inaturalist.org/people/shanelle97", title: iNat}
   - {file: "Photography.md", title: "Photography"}
-  - {file: "Art.md", title: "Art"}
+  - {file: "Art.md", title: "SciArt and Illustration"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shanelle.wikramanayake@colostate.edu"}

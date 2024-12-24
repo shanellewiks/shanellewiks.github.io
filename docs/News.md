@@ -8,6 +8,8 @@ permalink: /https://shanellewiks.github.io/News/
 
 ![CeratophoraAspera](/assets/Aspera2.jpg)
 
+CSU, Fort Collins Graduate Student Showcase 2024: [Second place, Top Scholars for University-Wide Graduate Programs](https://gradshow.colostate.edu/Awards.aspx)
+
 Feature in CSUN Today: [CSUN Honors Convocation Puts Spotlight on Outstanding Graduates](https://csunshinetoday.csun.edu/university-news/honors-convocation-shines-spotlight-on-outstanding-graduates/)
 
 Feature for the University of Washington, Burke Museum: [Tracking elusive lizards in Sri Lanka](https://www.burkemuseum.org/news/tracking-elusive-lizards-sri-lanka)
