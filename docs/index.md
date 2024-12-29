@@ -2,15 +2,19 @@
 layout: page
 title: ![Logo](/assets/Logo.jpg) ""
 ---
-<img src="/assets/Field_pic2.jpg"  width="250" height="250"> 
+<img src="assets/Research/Fieldpic4.jpeg"  width="250" height="250"> 
+
 Contact: shanelle.wikramanayake@colostate.edu
 
-I am a PhD student in the [Funk Lab](https://sites.google.com/view/funklab/home?authuser=0) at Colorado State University, Fort Collins. 
-I am broadly interested in evolutionary ecology and conservation in tropical rainforests. My current research examines the impacts of habitat fragmentation and climate change on the persistence of tropical ectotherms, with a focus on Sri Lankan agamid lizards. 
+PhD student in the [Funk Lab](https://sites.google.com/view/funklab/home?authuser=0) at Colorado State University, Fort Collins. 
+I am an evolutionary ecologist with an interest in using integrative research to examine evolutionary processes and conserve threatened organisms in tropical rainforests. My research utilizes fieldwork, lab work, and computer science/bioinformatics. 
+My primary research projects are: 
 
-I did my M.S. in the [Robertson lab](https://jrobertsonlab.wordpress.com/) at California State University, Northridge, where I studied the of role of female mate choice in mediating premating behavioural reproductive isolation along the speciation continuum of the Red-eyed treefrog (_Agalychnis callidryas_).
+* Impacts of climate change and habitat fragmentation on organisms
+* Role of female mate choice in lineage divergence
+* Phylogeography of an endangered endemic lizard 
 
-My undergraduate [research](https://doi.org/10.1111/btp.12970) in the [Leaché lab](https://faculty.washington.edu/leache/wordpress/) focused on the population genetics of the endangered and endemic Sri Lankan Rough-nosed horned lizard (_Ceratophora aspera_). 
+<img src="/assets/Field_pic2.jpg"  width="250" height="250"> 
 
 <img src="/assets/Aspera.jpg"  width="375" height="375">  <img src="/assets/RETFHome.jpg"  width="350" height="350">
 

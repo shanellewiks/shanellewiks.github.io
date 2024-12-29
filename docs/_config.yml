@@ -16,6 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "Research.md", title: "Research"}
   - {url: "/SWikramanayake_CV.pdf", title: CV}
   - {file: "News.md", title: "News"}
   - {url: "https://www.inaturalist.org/people/shanelle97", title: iNat}
