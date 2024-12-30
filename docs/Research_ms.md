@@ -11,4 +11,6 @@ We addressed the role of female mate choice as a mechanism of sexual selection b
 This project was part of my M.S. thesis research in the [Robertson lab](https://jrobertsonlab.wordpress.com/) at California State University, Northridge.
 
 <img src="/assets/Research/RETF_cont.png">
-<img src="/assets/Research/RETFmale.png"  width="250" height="250"> <img src="/assets/Research/RETFmetamorph.png"  width="250" height="250"> 
+_Red eye treefrog species continuum and treatments for behavioural trials_
+<img src="/assets/Research/RETFmale.jpg"> <img src="/assets/Research/RETFmetamorph.jpg"> 
+_Adult male red-eyed treefrog and metamorph_

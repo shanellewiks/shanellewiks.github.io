@@ -10,6 +10,7 @@ I will use techniques in thermal physiology, landscape genomics, and demo-geneti
 
 <img src="/assets/Research/Intergrative_conservation.png">
 
- <img src="/assets/Research/Fragmentation.jpg">  <img src="/assets/Research/phd_sp.png"> 
-
-<img src="/assets/Research/Datalogger.jpg"  width="250" height="250"> 
+<img src="/assets/Research/phd_sp.png"> 
+_Focal species_
+<img src="/assets/Research/Fragmentation.jpg">  
+_Tea plantation adjacent to rainforest, Eastern Sinharaja, Sri Lanka_
