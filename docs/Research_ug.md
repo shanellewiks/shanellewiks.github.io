@@ -17,7 +17,8 @@ This was an undergraduate research project in the [Leaché lab](https://faculty.
 [See publication](https://doi.org/10.1111/btp.12970) 
 
 Feature for the University of Washington, Burke Museum: [Tracking elusive lizards in Sri Lanka](https://www.burkemuseum.org/news/tracking-elusive-lizards-sri-lanka)
+
 Feature in Mongabay: [Forest fragmentation split up this lizard’s population. It’s no longer the same](https://news.mongabay.com/2021/09/forest-fragmentation-split-up-this-lizards-population-its-no-longer-the-same/)
 
 <img src="/assets/Research/Wik21_map_trees.png">
-<img src="/assets/Research/Aspera_fieldpic.JPG"> <img src="/assets/Research/Aspera_fieldpic2.JPG"> 
+<img src="/assets/Research/Aspera_fieldpic.JPG"  width="300" height="300"> <img src="/assets/Research/Aspera_fieldpic2.JPG"  width="300" height="300"> 

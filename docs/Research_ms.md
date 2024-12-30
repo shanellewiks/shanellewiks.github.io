@@ -12,5 +12,5 @@ This project was part of my M.S. thesis research in the [Robertson lab](https://
 
 <img src="/assets/Research/RETF_cont.png">
 _Red eye treefrog species continuum and treatments for behavioural trials_
-<img src="/assets/Research/RETFmale.jpg"> <img src="/assets/Research/RETFmetamorph.jpg"> 
+<img src="/assets/Research/RETFmale.jpg"  width="300" height="300"> <img src="/assets/Research/RETFmetamorph.jpg"  width="300" height="300"> 
 _Adult male red-eyed treefrog and metamorph_
