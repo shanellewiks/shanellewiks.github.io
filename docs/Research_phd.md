@@ -9,5 +9,6 @@ To persist in the face of climate change, organisms must evolve, acclimate, or d
 I will use techniques in thermal physiology, landscape genomics, and demo-genetic modelling. Results from this study will be used to inform ecosystem-level and species-specific conservation management strategies.
 
 <img src="/assets/Research/SLmap.png"  width="250" height="250"> <img src="/assets/Research/Fragmentation.jpg"  width="250" height="250"> 
+
 <img src="/assets/Research/Intergrative_conservation.png"  width="250" height="250"> <img src="/assets/Research/phd_sp.png"  width="250" height="250"> 
 <img src="/assets/Research/Datalogger.jpg"  width="250" height="250"> 

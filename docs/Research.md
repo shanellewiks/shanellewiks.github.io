@@ -11,13 +11,10 @@ My undergraduate [research](https://doi.org/10.1111/btp.12970) in the [Leaché l
 
 See research pages for each project for more details: 
 
-* [Impacts of climate change and habitat fragmentation on organisms](research_phd.md)
-* [Role of female mate choice in lineage divergence](research_ms.md)
+* [Impacts of climate change and habitat fragmentation on organisms](/research/research_phd/)
+* [Role of female mate choice in lineage divergence](/research/research_ms/)
 * [Phylogeography of an endangered endemic lizard](/research/research_ug/)
 
 <img src="/assets/Research/Fieldpic1.jpg"  width="250" height="250"> <img src="/assets/Research/Fieldpic2.jpeg"  width="250" height="250"> 
 
-<img src="/assets/Research/Fieldpic3.jpeg"  width="250" height="250"> 
-
-<img src="/assets/Research/Fieldpic5.jpeg"  width="250" height="250"> 
-<img src="/assets/Research/Fieldpic6.jpg"  width="250" height="250"> 
+<img src="/assets/Research/Fieldpic3.jpeg"  width="250" height="250"> <img src="/assets/Research/Fieldpic5.jpeg"  width="250" height="250"> 

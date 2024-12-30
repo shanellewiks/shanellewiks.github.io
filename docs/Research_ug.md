@@ -5,7 +5,7 @@ title: "Phylogeography of an endangered endemic lizard"
 permalink: /research/research_ug/
 
 ---
-<img src="/assets/Research/Casp"  width="250" height="250">
+<img src="/assets/Research/Casp.jpg"  width="250" height="250">
 
 Sri Lanka is a biodiversity hotspot and a Global 200 Ecoregion. 
 Much of this unique biodiversity is concentrated in the lowland and montane rainforests. 
@@ -20,4 +20,4 @@ Feature for the University of Washington, Burke Museum: [Tracking elusive lizard
 Feature in Mongabay: [Forest fragmentation split up this lizard’s population. It’s no longer the same](https://news.mongabay.com/2021/09/forest-fragmentation-split-up-this-lizards-population-its-no-longer-the-same/)
 
 <img src="/assets/Research/Wik21_map_trees.png">
-<img src="/assets/Research/Aspera_fieldpic.png"  width="250" height="250"> 
+<img src="/assets/Research/Aspera_fieldpic.JPG"  width="250" height="250"> 
