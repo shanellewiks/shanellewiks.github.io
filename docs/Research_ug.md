@@ -5,7 +5,7 @@ title: "Phylogeography of an endangered endemic lizard"
 permalink: /research/research_ug/
 
 ---
-<img src="/assets/Research/Casp.jpg"  width="250" height="250">
+<img src="/assets/Research/Casp.jpg"  width="300" height="300">
 
 Sri Lanka is a biodiversity hotspot and a Global 200 Ecoregion. 
 Much of this unique biodiversity is concentrated in the lowland and montane rainforests. 

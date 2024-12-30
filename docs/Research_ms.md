@@ -2,7 +2,7 @@
 
 layout: page
 title: "Role of female mate choice in lineage divergence"
-permalink: /research/research_ug/
+permalink: /research/research_ms/
 
 ---
 <img src="/assets/RETFmale.png"  width="250" height="250">

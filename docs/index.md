@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ![Logo](/assets/Logo.jpg) ""
+title: ![Logo](/assets/Logo.jpg)
 ---
 
 <img src="/assets/Field_pic2.jpg"  width="250" height="250"> 
