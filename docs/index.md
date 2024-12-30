@@ -2,7 +2,8 @@
 layout: page
 title: ![Logo](/assets/Logo.jpg) ""
 ---
-<img src="assets/Research/Fieldpic4.jpeg"  width="250" height="250"> 
+
+<img src="/assets/Field_pic2.jpg"  width="250" height="250"> 
 
 Contact: shanelle.wikramanayake@colostate.edu
 
@@ -14,7 +15,7 @@ My primary research projects are:
 * Role of female mate choice in lineage divergence
 * Phylogeography of an endangered endemic lizard 
 
-<img src="/assets/Field_pic2.jpg"  width="250" height="250"> 
+<img src="assets/Research/Fieldpic4.jpeg"  width="250"> 
 
 <img src="/assets/Aspera.jpg"  width="375" height="375">  <img src="/assets/RETFHome.jpg"  width="350" height="350">
 

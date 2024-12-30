@@ -11,10 +11,10 @@ My undergraduate [research](https://doi.org/10.1111/btp.12970) in the [Leaché l
 
 See research pages for each project for more details: 
 
-* [Impacts of climate change and habitat fragmentation on organisms](https://shanellewiks.github.io/research_phd/)
-* [Role of female mate choice in lineage divergence](https://shanellewiks.github.io/research_ms/)
-* [Phylogeography of an endangered endemic lizard](/https://shanellewiks.github.io/research_ug/)
+* [Impacts of climate change and habitat fragmentation on organisms](research_phd.md)
+* [Role of female mate choice in lineage divergence](research_ms.md)
+* [Phylogeography of an endangered endemic lizard](Research_ug.md)
 
-<img src="/assets/Fieldpic1.png"  width="250" height="250"> <img src="/assets/Fieldpic2.png"  width="250" height="250"> 
-<img src="/assets/Fieldpic3.png"  width="250" height="250"> <img src="/assets/Fieldpic5.png"  width="250" height="250"> 
- <img src="/assets/Fieldpic6.png"  width="250" height="250"> 
+<img src="/assets/Research/Fieldpic1.png"  width="250" height="250"> <img src="/assets/Research/Fieldpic2.png"  width="250" height="250"> 
+<img src="/assets/Research/Fieldpic3.png"  width="250" height="250"> <img src="/assets/Research/Fieldpic5.png"  width="250" height="250"> 
+ <img src="/assets/Research/Fieldpic6.png"  width="250" height="250"> 
