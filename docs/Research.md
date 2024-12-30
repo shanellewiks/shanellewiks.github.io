@@ -16,5 +16,8 @@ See research pages for each project for more details:
 * [Phylogeography of an endangered endemic lizard](/research/research_ug/)
 
 <img src="/assets/Research/Fieldpic1.jpg"  width="250" height="250"> <img src="/assets/Research/Fieldpic2.jpeg"  width="250" height="250"> 
-<img src="/assets/Research/Fieldpic3.jpeg"  width="250" height="250"> <img src="/assets/Research/Fieldpic5.jpeg"  width="250" height="250"> 
-<img src="/assets/Research/Fieldpic6.jpeg"  width="250" height="250"> 
+
+<img src="/assets/Research/Fieldpic3.jpeg"  width="250" height="250"> 
+
+<img src="/assets/Research/Fieldpic5.jpeg"  width="250" height="250"> 
+<img src="/assets/Research/Fieldpic6.jpg"  width="250" height="250"> 

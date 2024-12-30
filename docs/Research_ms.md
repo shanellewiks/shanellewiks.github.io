@@ -2,7 +2,7 @@
 
 layout: page
 title: "Role of female mate choice in lineage divergence"
-permalink: /https://shanellewiks.github.io/research_ms/
+permalink: /research/research_ug/
 
 ---
 <img src="/assets/RETFmale.png"  width="250" height="250">
@@ -12,5 +12,5 @@ The red-eyed treefrog (RETF; _Agalychnis callidryas_), displays high levels of p
 We addressed the role of female mate choice as a mechanism of sexual selection by testing its contributions along a speciation continuum. We estimated reproductive isolation as a function of mate recognition and mate preference in female RETFs using mate choice trials and tested their relationship against a species continuum of genetic distance.
 This project was part of my M.S. thesis research in the [Robertson lab](https://jrobertsonlab.wordpress.com/) at California State University, Northridge.
 
-<img src="/assets/RETF_cont.png">
-<img src="/assets/RETFmale.png"  width="250" height="250"> <img src="/assets/RETFmetamorph.png"  width="250" height="250"> 
+<img src="/assets/Research/RETF_cont.png">
+<img src="/assets/Research/RETFmale.png"  width="250" height="250"> <img src="/assets/Research/RETFmetamorph.png"  width="250" height="250"> 
