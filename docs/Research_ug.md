@@ -2,7 +2,7 @@
 
 layout: page
 title: "Role of female mate choice in lineage divergence"
-permalink: /https://shanellewiks.github.io/research/research_phd.md
+permalink: /https://shanellewiks.github.io/research/research_ug.md
 
 ---
 <img src="/assets/Casp"  width="250" height="250">
