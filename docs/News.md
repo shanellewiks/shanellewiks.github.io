@@ -20,7 +20,7 @@ Feature in the University of Washington, Biology department website: [... featur
 
 Feature on Parrotfish Collective: [World Lizard day](https://www.instagram.com/p/CSip6WkBLS1/?hl=en)
 
-Feature in the Burke Museum [Tracking elusive lizards in Sri Lanka](https://www.burkemuseum.org/news/tracking-elusive-lizards-sri-lanka)
+Feature in the Burke Museum: [Tracking elusive lizards in Sri Lanka](https://www.burkemuseum.org/news/tracking-elusive-lizards-sri-lanka)
 
 Feature on Parrotfish Collective: [Island Spell Series 3](https://www.instagram.com/p/B_Y4BuahV20/?hl=en)
 
