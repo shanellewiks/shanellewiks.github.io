@@ -8,6 +8,7 @@ permalink: /https://shanellewiks.github.io/art/
 
 Poster for Graduate Student Showcase 2024, CSU Fort Collins
 <img src="/assets/SciArt/WHC_poster_Wikramanayake.png">  
+
 _Agalychnis callidryas_ and _Agalychnis saltator_
 
 <img src="/assets/Art/RETF.jpg"  width="410" height="410">  <img src="/assets/Art/Saltator.jpg"  width="350" height="350">
@@ -25,7 +26,11 @@ _Calotes calotes_
 
 _Lyriocephalus scutatus_
 
-![Phylomedusines](/assets/Art/Lscutatus.png)
+![Lyriocephalus](/assets/Art/Lscutatus.png)
+
+_Ceratophora aspera_
+
+<img src="/assets/Art/Aspera_face.png"  width="410" height="410"> <img src="/assets/Art/Aspera_face_side.png"  width="410" height="410">
 
 _Ceyx erithaca_
 
