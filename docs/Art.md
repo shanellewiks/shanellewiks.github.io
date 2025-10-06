@@ -30,7 +30,7 @@ _Lyriocephalus scutatus_
 
 _Ceratophora aspera_
 
-<img src="/assets/Art/Aspera_face.png"  width="350" height="350"> <img src="/assets/Art/Aspera_face_side.png"  width="500" height="500">
+<img src="/assets/Art/Aspera_face.png"  width="320" height="320"> <img src="/assets/Art/Aspera_face_side.png"  width="490" height="490">
 
 _Ceyx erithaca_
 
