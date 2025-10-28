@@ -7,6 +7,7 @@ permalink: /https://shanellewiks.github.io/News/
 ---
 
 ![CeratophoraAspera](/assets/Aspera2.jpg)
+Warner College of Natural Resources Digest: [Graduate student highlight](https://warnercnr.colostate.edu/announcements/shanelle-wikramanayake-sir-lanka/)
 
 CSU, Fort Collins Graduate Student Showcase 2024: [Second place, Top Scholars for University-Wide Graduate Programs](https://gradshow.colostate.edu/Awards.aspx)
 
