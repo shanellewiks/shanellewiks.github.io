@@ -7,9 +7,19 @@ permalink: /https://shanellewiks.github.io/News/
 ---
 
 ![CeratophoraAspera](/assets/Aspera2.jpg)
+Funk Lab attends and presents posters at American Genetic Association Presiden't Symposium 2026!
+See my poster [here](https://docs.google.com/document/d/1uoOGbWAhf2pBDdkP3PxEvEq2TdGtGi7d2n5a7KHalGQ/edit?usp=sharing)
+
 Warner College of Natural Resources Digest: [Graduate student highlight](https://warnercnr.colostate.edu/announcements/shanelle-wikramanayake-sir-lanka/)
 
+Served as treasurer and presented poster at the Front Range Student Symposium 2024!
+See my poster [here](https://drive.google.com/file/d/1YaPOR8VeGE2HIlSwyZn4dkasioQLHs-7/view?usp=drive_link)
+
 CSU, Fort Collins Graduate Student Showcase 2024: [Second place, Top Scholars for University-Wide Graduate Programs](https://gradshow.colostate.edu/Awards.aspx)
+See my poster [here](https://drive.google.com/file/d/1VcekCzGYRL_1fwa6Po-L7KekBS9tPL15/view?usp=sharing)
+
+Attended and presented poster at the World Congress of Herpetology 2024, in Kuching, Sarawak, Borneo
+See my poster [here](https://drive.google.com/file/d/1fMBmaTX6Za_XMJQ3MKZWnei3uM43jlRp/view?usp=sharing)
 
 Feature in CSUN Today: [CSUN Honors Convocation Puts Spotlight on Outstanding Graduates](https://csunshinetoday.csun.edu/university-news/honors-convocation-shines-spotlight-on-outstanding-graduates/)
 
